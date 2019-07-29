@@ -1,0 +1,11 @@
+C:\Users\sasharma\source\repos\ServerSide\ServerSide\bin\Debug\netcoreapp2.2\ServerSide.deps.json
+C:\Users\sasharma\source\repos\ServerSide\ServerSide\bin\Debug\netcoreapp2.2\ServerSide.runtimeconfig.json
+C:\Users\sasharma\source\repos\ServerSide\ServerSide\bin\Debug\netcoreapp2.2\ServerSide.runtimeconfig.dev.json
+C:\Users\sasharma\source\repos\ServerSide\ServerSide\bin\Debug\netcoreapp2.2\ServerSide.dll
+C:\Users\sasharma\source\repos\ServerSide\ServerSide\bin\Debug\netcoreapp2.2\ServerSide.pdb
+C:\Users\sasharma\source\repos\ServerSide\ServerSide\obj\Debug\netcoreapp2.2\ServerSide.csprojAssemblyReference.cache
+C:\Users\sasharma\source\repos\ServerSide\ServerSide\obj\Debug\netcoreapp2.2\ServerSide.csproj.CoreCompileInputs.cache
+C:\Users\sasharma\source\repos\ServerSide\ServerSide\obj\Debug\netcoreapp2.2\ServerSide.AssemblyInfoInputs.cache
+C:\Users\sasharma\source\repos\ServerSide\ServerSide\obj\Debug\netcoreapp2.2\ServerSide.AssemblyInfo.cs
+C:\Users\sasharma\source\repos\ServerSide\ServerSide\obj\Debug\netcoreapp2.2\ServerSide.dll
+C:\Users\sasharma\source\repos\ServerSide\ServerSide\obj\Debug\netcoreapp2.2\ServerSide.pdb

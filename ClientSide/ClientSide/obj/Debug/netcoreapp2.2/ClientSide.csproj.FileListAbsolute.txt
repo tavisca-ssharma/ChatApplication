@@ -1,0 +1,11 @@
+C:\Users\sasharma\source\repos\ClientSide\ClientSide\bin\Debug\netcoreapp2.2\ClientSide.deps.json
+C:\Users\sasharma\source\repos\ClientSide\ClientSide\bin\Debug\netcoreapp2.2\ClientSide.runtimeconfig.json
+C:\Users\sasharma\source\repos\ClientSide\ClientSide\bin\Debug\netcoreapp2.2\ClientSide.runtimeconfig.dev.json
+C:\Users\sasharma\source\repos\ClientSide\ClientSide\bin\Debug\netcoreapp2.2\ClientSide.dll
+C:\Users\sasharma\source\repos\ClientSide\ClientSide\bin\Debug\netcoreapp2.2\ClientSide.pdb
+C:\Users\sasharma\source\repos\ClientSide\ClientSide\obj\Debug\netcoreapp2.2\ClientSide.csproj.CoreCompileInputs.cache
+C:\Users\sasharma\source\repos\ClientSide\ClientSide\obj\Debug\netcoreapp2.2\ClientSide.AssemblyInfoInputs.cache
+C:\Users\sasharma\source\repos\ClientSide\ClientSide\obj\Debug\netcoreapp2.2\ClientSide.AssemblyInfo.cs
+C:\Users\sasharma\source\repos\ClientSide\ClientSide\obj\Debug\netcoreapp2.2\ClientSide.dll
+C:\Users\sasharma\source\repos\ClientSide\ClientSide\obj\Debug\netcoreapp2.2\ClientSide.pdb
+C:\Users\sasharma\source\repos\ClientSide\ClientSide\obj\Debug\netcoreapp2.2\ClientSide.csprojAssemblyReference.cache
